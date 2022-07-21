@@ -6,3 +6,6 @@ for i in n.lower():
     else:
         freq[i]=1
 print(freq)
+
+a = 4
+b = 4

@@ -60,17 +60,19 @@
  #       print(total)
 #character_index(char)
 
-list = [1,2,3,6]
-def even_list(list):
-    for i in list:
-        if (int(i)%2 == 0):
-            print('Even')
-        else:
-            print('odd')
+#list = [1,2,3,6]
+#def even_list(list):
+ #   for i in list:
+ #       if (int(i)%2 == 0):
+ #           print('Even')
+ #       else:
+  #          print('odd')
 
-even_list(list)
-        
+#even_list(list)
 
+
+
+  
 
 
 
